@@ -28,9 +28,9 @@ I'm Mateus Araujo, a designer and junior developer passionate about technology i
 
 <h1></h1>
 
-<a href="https://github.com/teuaraujoo/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=teuaraujoo"/>
-</a>
-<a href="https://github.com/teuaraujooconvoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=teuaraujoo&layout=compact&langs_count=8&card_width=320"/>
-</a>
+<a href="https://github.com/ClaudenyAvelino">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=teuaraujoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teuaraujoo&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+ &nbsp;
+<img src= https://static.wixstatic.com/media/01151f_46f79bda561542528507d736fc34b970~mv2.gif></img>
