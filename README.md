@@ -1,8 +1,8 @@
 <h1>Hi there👋, I'm Mateus Araujo</h1>
 <h3>👽 About me</h3>
-<h6><strong>|</strong> Junior Developer and Designer</h6>
+<h6><strong>|</strong> Junior Developer</h6>
 
-I'm Mateus Araujo, a designer and junior developer passionate about technology in general. I live in Aracaju, Sergipe, but serve clients throughout Brazil, creating modern, fast, and purposeful websites. I have experience with **CRM and productivity tools, like Salesforce and Google Sheets**, combining organization, strategy, and creativity in each project. I also have **expertise in Artificial Intelligence**, with some training in the field. I currently work with **no-code development and design, creating institutional websites, portfolios, and landing pages** that combine aesthetics and results. I'm constantly studying programming and new languages ​​to hone my skills and broaden my technical perspective, because I believe that technology is the path to increasingly complete digital experiences.
+My name is Mateus Araujo, I'm a junior developer passionate about technology, currently working as a freelancer. I live in Aracaju, Sergipe, but I serve clients throughout Brazil, creating modern, agile, and functional websites. I have experience with CRM tools like Salesforce, using the Apex language. I also have expertise in Artificial Intelligence, with training in the field. Currently, I work with web development, creating complete web applications combining organization, strategy, and creativity in each project. I am constantly studying programming to improve my skills and broaden my technical perspective, because I believe that technology is the path to increasingly complete digital experiences.
 
 <h1></h1>
 
