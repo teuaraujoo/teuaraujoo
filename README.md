@@ -30,8 +30,9 @@ My name is Mateus Araujo, I'm a junior developer passionate about technology, cu
 <h1></h1>
 
 <a href="https://github.com/teuaraujoo">
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=teuaraujoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teuaraujoo&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=teuaraujoo&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teuaraujoo&layout=compact&langs_count=7&theme=holi"/>
 </div>
  &nbsp;
 <img src= https://static.wixstatic.com/media/01151f_46f79bda561542528507d736fc34b970~mv2.gif></img>
+
