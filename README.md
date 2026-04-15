@@ -1,6 +1,11 @@
-<h1>Hi there👋, I'm Mateus Araujo</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Hi+there%2C+I'm+Mateus+Araujo+%F0%9F%91%8B;Junior+Developer;Creating+modern%2C+agile+and+functional+websites;" alt="Typing SVG" />
+
+<h1></h1>
+
 <h3>👽 About me</h3>
 <h6><strong>|</strong> Junior Developer</h6>
+
+
 
 My name is Mateus Araujo, I'm a junior developer passionate about technology, currently working as a freelancer. I live in Aracaju, Sergipe, but I serve clients throughout Brazil, creating modern, agile, and functional websites. I have experience with CRM tools like Salesforce, using the Apex language. I also have expertise in Artificial Intelligence, with training in the field. Currently, I work with web development, creating complete web applications combining organization, strategy, and creativity in each project. I am constantly studying programming to improve my skills and broaden my technical perspective, because I believe that technology is the path to increasingly complete digital experiences.
 
@@ -25,32 +30,34 @@ My name is Mateus Araujo, I'm a junior developer passionate about technology, cu
 <a href="empresarial.mateus25@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" href""></a>
 
 <h3 align="left">🛠 Languages and Tools:</h3>
-<p>
-  <a>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"  alt="tailwind" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" heigth="40"/>
-  </a>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50"/>
 </p>
 
-<h3 align="left">☁ DataBase and Cloud:</h3>
-<p>
-  <a>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" heigth="40" /> 
-  </a> 
+<br>
+
+<!-- DATABASE -->
+<h2>☁ DataBase and Cloud</h2>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50"/>
 </p>
 
-<h3 aling="left">🚧 Dev and Testing: </h3>
-<p>
-  <a>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" heigth="40"/>
-    <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/f84a0b87-5a5c-4be3-8711-1abe8d24ebdc"/>
-  </a>
+<br>
+
+<!-- DEV TOOLS -->
+<h2>🚧 Dev and Testing</h2>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50"/>
+  <img width="50" src="https://github.com/user-attachments/assets/f84a0b87-5a5c-4be3-8711-1abe8d24ebdc"/>
 </p>
 
 <h1></h1>
@@ -62,3 +69,4 @@ My name is Mateus Araujo, I'm a junior developer passionate about technology, cu
  &nbsp;
 <img src= https://static.wixstatic.com/media/01151f_46f79bda561542528507d736fc34b970~mv2.gif></img>
 
+<h1></h1>
