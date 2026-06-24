@@ -20,8 +20,6 @@ My name is Mateus Araujo, I'm a junior developer passionate about technology, cu
   <ul>
   <li>Desenvolvimento FrontEnd - INOVA-SE
   <li>Lógica de Programação - Curso em Vídeo</li>
-  <li>IA Generativa - DIO</li>
-  <li>Engenharia de Prompt - Santander Academy</li>
 </ul>
 
 <h5 align="left">📩Let's Connect: </h5>
