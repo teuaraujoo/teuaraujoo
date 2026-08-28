@@ -16,7 +16,7 @@ I'm Mateus Araujo, a Full Stack Developer from Brazil. I currently work as a fre
 
 <h4><a href="https://drive.google.com/drive/folders/1QwM6SnKKgtcrV8CbGNaPPA9EHbBGMsAZ?usp=sharing">🎖</a> Certificates and Training</h4>
   <ul>
-  <li>Desenvolvimento FrontEnd - INOVA-SE
+  <li>Desenvolvimento FullStack - INOVA-SE
   <li>Lógica de Programação - Curso em Vídeo</li>
 </ul>
 
