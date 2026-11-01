@@ -5,13 +5,13 @@
 <h3>👽 About me</h3>
 <h6><strong>|</strong> FullStack Developer</h6>
 
-I'm Mateus Araujo, a Full Stack Developer from Brazil. I currently work as a freelance developer, designing and developing complete web applications from database modeling and backend architecture to responsive frontend interfaces. My experience includes building management systems, implementing secure authentication and authorization, REST APIs, caching, automated testing, and deploying modern web applications using technologies such as Node.js, TypeScript, React, Next.js, PostgreSQL, MySQL, Docker, and Redis. I also gained professional experience working with Salesforce, using Apex and Flow to maintain and improve enterprise solutions. I'm constantly learning new technologies, improving my software engineering skills, and exploring topics like system design, backend architecture, and AI-assisted development to build scalable, reliable, and maintainable applications.
+I'm Mateus Araujo, a Full Stack Developer from Aracaju, Brazil. I currently work at Delfinance, a fintech where I develop and maintain payroll lending systems using Node.js, NestJS, TypeScript, TypeORM, MySQL, Redis, and BullMQ, while also contributing to frontend applications with Vue.js. My work includes REST APIs, loan proposal and contract workflows, JWT authentication, multi-factor authentication, and integrations with identity verification, data enrichment, banking, and document storage services such as CAF, BigDataCorp, Autbank, and AWS S3. Alongside my role, I build web applications as a freelancer. I also have professional experience with Salesforce, Apex, and Flow. I'm pursuing a degree in Systems Analysis and Development and continuously strengthening my skills in software architecture, security, automated testing, and maintainable application development.
 
 <h1></h1>
 
 <h4>💼 Current Role</h4>
 <ul>
-  <li>Full Stack Freelancer</li>
+  <li>Full Stack Developer @Delfinance</li>
 </ul>
 
 <h4><a href="https://drive.google.com/drive/folders/1QwM6SnKKgtcrV8CbGNaPPA9EHbBGMsAZ?usp=sharing">🎖</a> Certificates and Training</h4>
