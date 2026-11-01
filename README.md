@@ -21,7 +21,7 @@ I'm Mateus Araujo, a Full Stack Developer from Aracaju, Brazil. I currently work
 </ul>
 
 <h5 align="left">📩Let's Connect: </h5>
-<a href="https://www.Instagram.com/teu.araujoo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.instagram.com/teuaraujo.dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/teuaraujoo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="empresarial.mateus25@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" href""></a>
 <a href="http://teuaraujo.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
@@ -35,6 +35,7 @@ I'm Mateus Araujo, a Full Stack Developer from Aracaju, Brazil. I currently work
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="50"/>
 </p>
 
 <br>
@@ -48,6 +49,7 @@ I'm Mateus Araujo, a Full Stack Developer from Aracaju, Brazil. I currently work
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typeorm/typeorm-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="50" />
 </p>
 
